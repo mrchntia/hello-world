@@ -4,13 +4,13 @@ Welcome to the Hello-World Community!
 
 Thinking of contributing to the Hello-World project? That's great, we would love to have you here.
 
-Please make sure to read this guide on how to contribute and our code of conduct.
+Please make sure to read this guide on how to contribute and our [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Ways to contribute
 
 - Bug squashing and feature development on our Python script
-- Built a user and developer documentation
-- Reporting issues, including both feature requests, bug reports or it there is something missing in the README.md, CONTRIBUTING.md or CODE_OF_CONDUCT.md file.
+- Building a user and developer documentation
+- Reporting issues, including both feature requests, bug reports or if there is something missing in the [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md) or [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file.
 
 ## Your first (codebase) contribution step by step
 
@@ -23,9 +23,15 @@ You can either work on an existing issue or create a new one. Make sure that you
 5. Create a new Pull Request
 
 Notes:
-- If you are uncomfortable with git here is a great git tutorial.
+- If you are uncomfortable with git here is a great [git tutorial](https://githowto.com/).
 
 ## Get in touch
 
-Because this is still a very small project there is no chat forum for the community. We will soon start a Zulip chat to improve communication of all contributors and make it easier to get help and give help to all problems that might occur.
+Because this is still a very small project there is no chat forum for the community.
+There will be a Zulip chat at some point in the future to improve communication of all contributors and make it easier to get help and give help to all problems that might occur.
+
 So far please contact me via email if you run into any kind of troubles or just want to introduce yourself as a new contributor.
+
+## License
+
+Distributed under the MIT LICENSE license. See [LICENSE](LICENSE) for more information.

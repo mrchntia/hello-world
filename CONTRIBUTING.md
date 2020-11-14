@@ -2,9 +2,9 @@
 
 Welcome to the Hello-World Community!
 
-Thinking of contributing to the Hello-World project? That's great, we would love to have you here.
+Thinking of contributing to the Hello-World project? That's great, I would love to have you here.
 
-Please make sure to read this guide on how to contribute and our [code of conduct](CODE_OF_CONDUCT.md).
+Please make sure to read this guide on how to contribute and the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Ways to contribute
 

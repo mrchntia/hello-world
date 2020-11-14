@@ -8,7 +8,7 @@ Please make sure to read this guide on how to contribute and our [code of conduc
 
 ## Ways to contribute
 
-- Bug squashing and feature development on our Python script
+- Bug squashing and feature development on the Python script
 - Building a user and developer documentation
 - Reporting issues, including both feature requests, bug reports or if there is something missing in the [README.md](README.md), [CONTRIBUTING.md](CONTRIBUTING.md) or [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file.
 
@@ -28,7 +28,7 @@ Notes:
 ## Get in touch
 
 Because this is still a very small project there is no chat forum for the community.
-There will be a Zulip chat at some point in the future to improve communication of all contributors and make it easier to get help and give help to all problems that might occur.
+There will be a [Zulip chat](https://github.com/zulip) at some point in the future to improve communication of all contributors and make it easier to get help and give help to all problems that might occur.
 
 So far please contact me via email ([mrchntia@gmail.com](mailto:mrchntia@gmail.com)) if you run into any kind of troubles or just want to introduce yourself as a new contributor.
 

@@ -30,7 +30,7 @@ Notes:
 Because this is still a very small project there is no chat forum for the community.
 There will be a Zulip chat at some point in the future to improve communication of all contributors and make it easier to get help and give help to all problems that might occur.
 
-So far please contact me via email if you run into any kind of troubles or just want to introduce yourself as a new contributor.
+So far please contact me via email ([mrchntia@gmail.com](mailto:mrchntia@gmail.com)) if you run into any kind of troubles or just want to introduce yourself as a new contributor.
 
 ## License
 

@@ -14,7 +14,7 @@ Please make sure to read this guide on how to contribute and the [code of conduc
 
 ## Your first (codebase) contribution step by step
 
-You can either work on an existing issue or create a new one. Make sure that you always idicate in the comments of the issue that you are working on it, so no one else starts to work on it as well. After you have done that follow the next steps.
+You can either work on an existing issue or create a new one. Make sure that you always indicate in the comments of the issue that you are working on it, so no one else starts to work on it as well. After you have done that follow the next steps.
 
 1. Fork it (https://github.com/mrchntia/hello-world/fork)
 2. Create your feature branch (git checkout -b feature-fooBar)

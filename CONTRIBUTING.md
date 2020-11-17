@@ -14,13 +14,14 @@ Please make sure to read this guide on how to contribute and the [code of conduc
 
 ## Your first (codebase) contribution step by step
 
-You can either work on an existing issue or create a new one. Make sure that you always indicate in the comments of the issue that you are working on it, so no one else starts to work on it as well. After you have done that follow the next steps.
+You can either work on an existing issue or create a new one. If you create a new issue you will be able to choose a template, please use it. Make sure that you always indicate in the comments of the issue that you are working on it, so no one else starts to work on it as well. After you have done that follow the next steps.
 
 1. Fork it (https://github.com/mrchntia/hello-world/fork)
 2. Create your feature branch (git checkout -b feature-fooBar)
 3. Commit your changes (git commit -am 'Add some fooBar'). Please make sure that your commit message is meaningful and detailed.
 4. Push to the branch (git push origin feature-fooBar)
-5. Create a new Pull Request
+5. Create a new Pull Request (Please add: A reference to a related issue in your repository. A description of the changes proposed in the pull request. @mentions of the person or team (so far this is always me @mrchntia) responsible for reviewing proposed changes.)
+
 
 Notes:
 - If you are uncomfortable with git here is a great [git tutorial](https://githowto.com/).

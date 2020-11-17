@@ -20,7 +20,10 @@ You can either work on an existing issue or create a new one. If you create a ne
 2. Create your feature branch (git checkout -b feature-fooBar)
 3. Commit your changes (git commit -am 'Add some fooBar'). Please make sure that your commit message is meaningful and detailed.
 4. Push to the branch (git push origin feature-fooBar)
-5. Create a new Pull Request (Please add: A reference to a related issue in your repository. A description of the changes proposed in the pull request. @mentions of the person or team (so far this is always me @mrchntia) responsible for reviewing proposed changes.)
+5. Create a new Pull Request and please add the following information:
+> - A reference to a related issue in your repository.
+> - A description of the changes proposed in the pull request.
+> - @mentions of the person or team (so far this is always me @mrchntia) responsible for reviewing proposed changes.)
 
 
 Notes:
